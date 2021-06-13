@@ -3,7 +3,7 @@
 Hi, I'm Rachel Chong and this is my final website assignment 
 
 ## Social Media 
-[My Instagram: rachel._.chong](https://www.instagram.com/rachel._.chong/) 
+[My Instagram](https://www.instagram.com/rachel._.chong/) 
 
 ## Brag Sheet 
 
