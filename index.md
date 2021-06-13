@@ -6,12 +6,15 @@ Hi, I'm Rachel Chong and this is my final website assignment
 Instagram: rachel._.chong 
 
 ## Brag Sheet 
+
 ### Sports 
 1. Varsity Track 8th-12th
 2. Varsity Marching Band 9th-12th
+
 ### Volunteering 
 1. Calvary Korean School Teacher 
     Total Hours: 110 
+    
 ### Awards
 1. Youth Homeland Excursion (KAYAC- Korean American Youth Assistance Coalition)- 2019 
 2. New Jersey Music Teachers Association (Highest Honors for Piano Performance)- 2019
