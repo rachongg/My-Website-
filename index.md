@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Welcome to My Website  
 
-You can use the [editor on GitHub](https://github.com/rachongg/My-Website-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Rachel Chong and this is my final website assignment 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Social Media 
+Instagram: rachel._.chong 
 
-### Markdown
+## Brag Sheet 
+### Sports 
+1. Varsity Track 8th-12th
+2. Varsity Marching Band 9th-12th
+### Volunteering 
+1. Calvary Korean School Teacher 
+    Total Hours: 110 
+### Awards
+1. Youth Homeland Excursion (KAYAC- Korean American Youth Assistance Coalition)- 2019 
+2. New Jersey Music Teachers Association (Highest Honors for Piano Performance)- 2019
+3. The President's Volunteer Service Award- 2020
+4. Junior Leadership Award- 2020
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Hobbies/Skills
+1. Flute- 7 years 
+2. Piano- 8 years
+3. Running- 5 years 
+4. Art- 8 years 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rachongg/My-Website-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
